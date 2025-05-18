@@ -1,6 +1,6 @@
 # 🏭 Warehouse Management System (WMS) MVP 🚀
 
-![WMS Dashboard Preview](https://via.placeholder.com/800x400?text=WMS+Dashboard+Preview)
+
 
 A modern Python-based Warehouse Management System designed to streamline inventory tracking and optimize stock management across multiple marketplaces. This MVP focuses on preprocessing sales data and harmonizing SKU information to provide actionable insights.
 
