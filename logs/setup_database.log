@@ -1,4 +1,0 @@
-2025-05-18 13:53:57,015 - setup_database - INFO - SQLite database set up successfully at data\wms_database.db
-2025-05-18 13:53:58,292 - setup_database - INFO - Read 5724 rows from https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sku_mapping_upload-L4HFJ5eZL8AwXZYMZxC78pOlp59dKE.csv
-2025-05-18 13:53:58,779 - setup_database - INFO - Imported 5724 SKU mappings, 0 failed
-2025-05-18 13:53:58,794 - setup_database - INFO - Created sample inventory data for 100 MSKUs
