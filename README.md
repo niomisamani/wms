@@ -28,7 +28,7 @@ A modern Python-based Warehouse Management System designed to streamline invento
 
 * **Natural Language Queries** 💬 - Ask questions in plain English
 * **Smart Data Exploration** 🔍 - Discover hidden patterns in your data
-* **Automated Reporting** 📄 - Generate reports with a single query
+
 
 ## 🛠️ Technology Stack
 
@@ -37,7 +37,7 @@ A modern Python-based Warehouse Management System designed to streamline invento
 | **Backend**         | Python 3.9+                       |
 | **Frontend**        | Streamlit                         |
 | **Data Processing** | Pandas, NumPy                     |
-| **Visualization**   | Plotly, Altair                    |
+| **Visualization**   | Plotly                            |
 | **Database**        | SQLite (default), Baserow (cloud) |
 | **AI Integration**  | Google Gemini API                 |
 
