@@ -1,0 +1,20 @@
+# Core dependencies
+streamlit==1.32.0
+pandas==2.1.4
+numpy==1.26.3
+pydantic==2.5.3
+python-dotenv==1.0.0
+openpyxl==3.1.2
+xlrd==2.0.1
+PyYAML==6.0.1
+plotly==5.18.0
+requests==2.31.0
+
+# Database
+baserow-python==0.1.0
+psycopg2-binary==2.9.9  # For PostgreSQL connection
+
+# AI/ML
+transformers==4.36.2
+sentence-transformers==2.2.2
+torch==2.1.2

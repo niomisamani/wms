@@ -1,0 +1,20 @@
+ai_query:
+  model_type: text2sql
+database:
+  baserow:
+    api_url: https://api.baserow.io/api/
+  type: sqlite
+logging:
+  file: logs/wms.log
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  level: INFO
+paths:
+  mappings: data/mappings/
+  processed_data: data/processed/
+  raw_data: data/raw/
+sku_mapping:
+  combo_separator: +
+  patterns:
+    amazon: ^[A-Z0-9]{10}$
+    flipkart: ^[a-zA-Z0-9_]+$
+    meesho: ^[A-Z]{4}_[A-Z0-9]+_[A-Z]{2}_[A-Za-z0-9_]+$
